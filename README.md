@@ -3,7 +3,7 @@
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-YYA0-docs/>
 
-* QA:  <https://ucsb-cs156-w22.github.io/jpa03-YYA0-docs-qa/>
+* QA:  <https://ucsb-cs156-f22.github.io/jpa03-YYA0-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
